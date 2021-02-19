@@ -62,4 +62,4 @@ begin
   if clean_buff = dec_buff then
     Showmessage('ok');
 end;
-```delphi
+```
